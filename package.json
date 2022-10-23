@@ -1,7 +1,7 @@
 {
   "name": "asyncourseproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "JavaScript Async Course Project | Platzi",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d src"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/0marD/asynCourseProject.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Omar Díaz Hernández",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/0marD/asynCourseProject/issues"
   },
